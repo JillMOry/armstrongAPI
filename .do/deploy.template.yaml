@@ -4,4 +4,5 @@ spec:
  - name: web
    git:
      branch: master
-     repo_clone_url: https://github.com/JillMOry/armstrongAPI/tree/master
+     repo_clone_url: https://github.com/JillMOry/armstrongAPI.git
+
