@@ -4,4 +4,4 @@ spec:
  - name: web
    git:
      branch: master
-     repo_clone_url: https://cloud.digitalocean.com/apps/new?repo=https://github.com/JillMOry/armstrongAPI/tree/master.git
+     repo_clone_url: https://cloud.digitalocean.com/apps/new?repo=https://github.com/JillMOry/armstrongAPI/tree/master
