@@ -5,4 +5,4 @@ spec:
    git:
      branch: master
      repo_clone_url: https://github.com/JillMOry/armstrongAPI.git
-     name: armstrongAPI
+    
