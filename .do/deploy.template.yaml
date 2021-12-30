@@ -1,7 +1,8 @@
 spec:
  name: armstrongAPI
- static_sites:
- - git:
+ services:
+ - name: web
+   git:
      branch: master
      repo_clone_url: https://github.com/JillMOry/armstrongAPI.git
-   name: armstrongAPI
+     name: armstrongAPI
