@@ -37,14 +37,7 @@ if (total === id){
 
 
 app.get('/', (request, response) => {
-    response.send(	<a
-        href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/JillMOry/armstrongAPI/tree/master"
-    >
-        <img
-            src="https://www.deploytodo.com/do-btn-blue.svg"
-            alt="Deploy to DO"
-        />
-    </a>)
+    response.send('Hello Armstrong!')
 });
 
 app.get('/:id', (request, response) => {
