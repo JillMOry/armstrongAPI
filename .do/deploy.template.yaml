@@ -3,5 +3,7 @@ spec:
  services:
  - name: web
    git:
-     branch: main
-     repo_clone_url: https://github.com/JillMOry/armstrongAPI
+     branch: master
+     repo_clone_url: https://github.com/JillMOry/armstrongAPI.git
+
+  
