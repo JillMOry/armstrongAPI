@@ -37,7 +37,7 @@ if (total === id){
 
 
 app.get('/', (request, response) => {
-    response.send('Hello Armstrong!')
+    response.send('An Armstrong number, also known as narcissistic number, is a number that is equal to the sum of the cubes of its own digits. Try it by extending the URL.  Example: https://armstrongapi-l8flg.ondigitalocean.app/9999 ')
 });
 
 app.get('/:id', (request, response) => {
