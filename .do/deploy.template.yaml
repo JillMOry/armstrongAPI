@@ -1,8 +1,0 @@
-spec:
- name: JillMOry/armstrongAPI
- services:
- - name: web
-   git:
-     branch: master
-     repo_clone_url: https://github.com/JillMOry/armstrongAPI.git
-    
