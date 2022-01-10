@@ -29,9 +29,9 @@ if(exp > 4){
     return "enter a smaller number";
 }
 if (total === id){
-    return true;
+    return true + ' ' + id + ' ' + 'is an Armstrong number';
 }else{
-    return false;
+    return false + ' ' + id + ' ' + 'is NOT an Armstrong number';
 }
 };
 
